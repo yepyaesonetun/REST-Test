@@ -1,0 +1,4 @@
+Driver: net.sourceforge.jtds.jdbc.Driver
+URL: jdbc:jtds:sqlserver://localhost:1433/DB;instance=MSSQL2014
+UserName:sa
+Password:HwPV+v0uOs0=
